@@ -1,2 +1,9 @@
 # odin-recipes
-HTML practice: Created lists (ordered, unordered) with checklists, images with links. 
+
+HTML practice:
+- Boilerplate
+- Semantic HTML
+- Headings, paragraphs
+- Images
+- Links
+- Lists (ordered/ unordered)
