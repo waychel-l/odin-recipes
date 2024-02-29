@@ -7,3 +7,6 @@ HTML practice:
 - Images
 - Links
 - Lists (ordered/ unordered)
+- Tables
+- Videos
+- Forms (checkbox only)
